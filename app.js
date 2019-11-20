@@ -1,3 +1,11 @@
+/*
+=========================
+This project was created for christmas
+Atndesign/KevinMoulun 2019
+=========================
+*/
+
+
 //Instanciate a canvas
 var canvas = document.getElementById("snow");
 var ctx = canvas.getContext('2d');
@@ -10,7 +18,7 @@ function Snowball(x,y,size){
     this.size = size;
     this.x = x;
     this.y = y;
-    this.dy = Math.floor(Math.random() * 5 + 5);
+    this.dy = Math.floor(Math.random() * 5 + 5); //Your snowball speed
     this.display = function(){
         ctx.beginPath();
         ctx.arc(this.x, this.y, size, 0 , Math.PI * 2);
@@ -46,5 +54,5 @@ function animate(){
         snowball.display();
     })
 }
-generateSnowballs(100)
+generateSnowballs(100) //The number you want to generate
 setInterval(animate, 40);
