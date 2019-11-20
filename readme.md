@@ -13,6 +13,5 @@ Christmas was coming and as I like to create some front end stuff, I decided to 
 
 -  Javascript 
 - Canvas  API
-- 
 ## Authors
 -   **Atndesign / Kevin Moulun** 
