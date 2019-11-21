@@ -1,4 +1,4 @@
-# OBS Snowing (JS)
+# Snow-Verlay (JS)
 
 Christmas was coming and as I like to create some front end stuff, I decided to make a snow with canvas JS
 
