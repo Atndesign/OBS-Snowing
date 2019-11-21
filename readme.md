@@ -4,7 +4,7 @@ Christmas was coming and as I like to create some front end stuff, I decided to 
 
 ## Installing
 
-1. Copy this link https://atndesign.github.io/OBS-Snowing/
+1. Copy this link https://atndesign.github.io/Snow-Verlay/
 2. Create a new browser source in OBS
 3. Paste the link
 4. Then enjoy the snow
